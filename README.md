@@ -67,10 +67,6 @@ To deploy to GitHub Pages:
 npm run deploy
 ```
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 👤 Author
 
 - GitHub: [@7atoom](https://github.com/7atoom)
